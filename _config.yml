@@ -11,7 +11,7 @@ description: My portfolio of personal and professional projects
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "http://ethankholden.com"
+url: "https://www.ethankholden.com"
 
 # baseurl should be an empty string
 baseurl: ""
