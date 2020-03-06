@@ -16,4 +16,4 @@ I was able to work with both Linear Regression and XGBoost to see how well the m
 
 <img src="https://raw.githubusercontent.com/mahoryu/mahoryu.github.io/master/img/Mushroom%20Permutation%20Importances.JPG">
 
-You can see the full explanation [here]() on Medium.
+You can see the full explanation [here](https://medium.com/@ethaholden/mushrooms-can-you-eat-it-2838bbd5b33a) on Medium.
