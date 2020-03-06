@@ -2,7 +2,7 @@
 layout: post
 title: Mushrooms, Can you eat it?
 subtitle: 
-gh-repo: mahoryu/mahoryu.github.io
+gh-repo: mahoryu/Unit2_Build_Project_Mushroom_Identification
 gh-badge: [star, fork, follow]
 tags: [predictivemodeling, datascience, mushrooms]
 comments: true
